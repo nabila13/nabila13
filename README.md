@@ -14,7 +14,6 @@
 <img alt="SQL" src="https://img.shields.io/badge/%20-SQL%20-yellow"/>
  </p>
 <br>
-<br>
 
 ### Some of my Projects:
 <ul>
