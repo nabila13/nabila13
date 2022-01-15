@@ -6,12 +6,12 @@
 <p align="left">
   <img alt="Android" src="https://img.shields.io/badge/%20-Android%20-blue" />
   <img alt="Java" src="https://img.shields.io/badge/%20-Java-green" />
-  <img alt="React JS" src="https://img.shields.io/badge/%20-React%20JS-blue" />
+  <img alt="React.JS" src="https://img.shields.io/badge/%20-React%20JS-blue" />
   <img alt="HTML5" src="https://img.shields.io/badge/%20-HTML5-%23F29111" /> <br/>
   <img alt="JavaScript" src="https://img.shields.io/badge/%20-JS-Green" />
   <img alt="CSS3" src="https://img.shields.io/badge/%20-CSS-blue" />
-  <img alt="bootstrap" src="https://img.shields.io/badge/%20-Bootstrap%20-red">
-<img alt="Android" src="https://img.shields.io/badge/%20-Android%20-green"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/%20-Bootstrap%20-red">
+<img alt="SQL" src="https://img.shields.io/badge/%20-SQL%20-yellow"/>
  </p>
 <br>
 <br>
